@@ -1,1 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+
+# SQLite DB (optional, if you don't want it on Git)
 db.sqlite3
